@@ -2,6 +2,9 @@
 Finally a flexbox project uwu
 Can't wait :3
 
-Photos by:
-- David Menidrey on Unsplash 
-- 
+Pictures from Unsplash by:
+- David Menidrey
+- Neven Krcmarek
+- Ján Jakub Naništa
+- Nicolas Picard
+- Toa Heftiba
