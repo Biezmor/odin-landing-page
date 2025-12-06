@@ -1,10 +1,2 @@
 # odin-landing-page
-Finally a flexbox project uwu
-Can't wait :3
-
-Pictures from Unsplash by:
-- David Menidrey
-- Neven Krcmarek
-- Ján Jakub Naništa
-- Nicolas Picard
-- Toa Heftiba
+Had a crappy first attempt a few months ago then was too busy, sat down to do it properly the second time and guess what - it was much quicker and with better result I think this time :3

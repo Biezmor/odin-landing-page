@@ -1,4 +1,4 @@
-* { border-style:none ;
+* { border-style:solid ;
     border-color: brown;
     border-width: 1px;}
 
@@ -14,7 +14,7 @@ body {
 .one, .two, .three, .four {
     display: flex;
     flex-direction: column;
-    padding: 5%;
+    padding: 7em;
 }
 
 
