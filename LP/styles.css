@@ -1,0 +1,145 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em 2em;
+}
+
+ul {display: flex;
+    gap: 2em;
+    list-style: none;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    
+}
+
+#one {
+    background-color: #1F2937;
+    color: white;
+    padding: 1em 5em;
+}
+
+.hero {
+    display: flex;
+    padding: 2em;
+    gap: 8em;
+    justify-content: space-between;
+}
+
+.hero .left {
+    display: flex;
+    flex-direction: column;
+   
+    
+}
+
+.hero .right {
+    display: flex;
+}
+
+.hero .left button {
+    display: flex;
+    width: 120px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    border-radius: 8px;
+    color: white;
+    font-weight: 700;
+    
+}
+
+.hero p {
+    margin-bottom: 1em;
+}
+
+main {
+    padding: 3em;
+    background-color:azure;
+    text-align: center;
+}
+
+.four-images {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    padding: 0 24em;
+}
+
+.card {
+    padding: 1em;
+}
+.card img {
+    border: solid #3882F6;
+    border-radius: 12px;
+}
+
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 3em 8em;
+    text-align: justify;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+#thor {
+    margin-left: auto;
+    color: #3882F6;
+    font-weight: 900;
+    text-align: right;
+    font-size: 24px;
+}
+
+.call {
+    display: flex;
+    justify-content: center;
+   
+    color: white;
+}
+.call-wrap {
+    margin: 4em 3em;
+    display: flex;
+    background-color: #3882F6;
+    border: solid;
+    border-style: none;
+    border-radius: 8px;
+    padding: 2em 4em;
+    align-items: center;
+    gap: 7em;
+}
+
+.call-wrap button {
+    padding: 0.5em 2em;
+    border-radius: 12px;
+    color: white;
+    background-color: #3882F6;
+    border-color: white;
+
+}
+
+.call-wrap .left {
+    flex: 3;
+}
+.call-wrap .right {
+    flex: 1;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 2em 4em;
+}
